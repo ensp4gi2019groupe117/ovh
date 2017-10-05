@@ -1,0 +1,69 @@
+.box{
+	width: 30%;
+	min-width: 360px;
+    position:absolute;
+  	left:33%;
+  	top:17%;
+  	padding: 20px 20px 20px 20px;
+  	box-shadow: 1px 1px 7px #555;
+}
+
+#logo{
+	margin-left: 33%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.box-title{
+	margin-bottom: 20px;
+}
+
+.hr-inter-div{
+	background: #EEE;
+}
+
+.box-form .input-line{
+	padding-top: 7px;
+	margin-top: 8px;
+	width: 100%;
+}
+
+#remembermelabel{
+	margin-left: 20px;
+	margin-right: 17%;
+}
+
+#remembermeparag{
+	margin-bottom: 30px;
+}
+
+#btnsubmit{
+	width: 35%;
+	text-align: center;
+	background: #3c87c8;
+	color: #ffffff;
+	padding: 5px 5px 5px 5px;
+	border-radius: 7px;
+	position: relative;
+	float: right;
+}
+
+#eye{
+	position: relative;
+	float: right;
+	margin-top: -25px;
+}
+
+label{
+	color: #444;
+	padding-bottom: 25px;
+}
+
+.glyphicon{
+	display: none;
+    right: 15px;
+    position: absolute;
+    top: 12px;
+    cursor:pointer;
+}
+
